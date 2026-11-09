@@ -1,0 +1,6 @@
+# Sesión del navegador: contiene credenciales, NUNCA se sube
+perfil_edge/
+# Capturas y reportes generados (contienen datos)
+*.png
+*.pdf
+__pycache__/
