@@ -42,4 +42,4 @@ Las capturas se unen en una sola hoja con encabezado, número de semana ISO, fec
 
 Requisitos: Windows y Microsoft Edge.
 
-> Versión adaptada para portafolio: los enlaces a los informes fueron reemplazados por marcadores `<...>`. La carpeta `perfil_edge` (sesión del navegador) y los reportes generados están excluidos con `.gitignore` y nunca deben publicarse.
+> Versión adaptada para portafolio: los enlaces a los informes fueron reemplazados por marcadores `<...>`. La carpeta `perfil_edge` (sesión del navegador) y los reportes generados están excluidos con `.gitignore`.
