@@ -32,7 +32,7 @@ Las capturas se unen en una sola hoja con encabezado, número de semana ISO, fec
 
 ## Resultado
 - El reporte semanal se genera con **un solo comando**.
-- [Agrega aquí el tiempo ahorrado, por ejemplo: de ~X minutos a menos de 2 minutos por semana.]
+- Antes se tomaban las capturas a mano, se pegaban en Word y se exportaban a PDF; ahora se ahorran **~15 minutos por semana** (unas **13 horas al año**).
 - Siempre se incluyen todas las combinaciones, sin olvidos.
 
 ## Cómo usarlo
