@@ -1,0 +1,7 @@
+# Perfil local del navegador
+perfil_edge/
+
+# Archivos generados al ejecutar
+*.png
+*.pdf
+__pycache__/
