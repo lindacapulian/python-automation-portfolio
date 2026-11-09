@@ -1,0 +1,4 @@
+requests
+truststore
+playwright
+pywin32
